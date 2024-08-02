@@ -1,10 +1,11 @@
-## 👋 Hi, I'm Andre!
+## 👋 Hi, I'm Andre! 
 
 
-👨🏻‍💻 Bsc Information Technology Student at the North-West University, South Africa.
+👨🏻‍💻 Bsc Information Technology Student at the North-West University, South Africa. <br/>
 🌱 I’m currently on a self development journey learning Frontend technologies to compliment Backend knowledge.
 
-
+[![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=AJLaubscher icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJLaubscher&show_icons=true&theme=merko)
 
 <!--
 **AJLaubscher/AJLaubscher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
